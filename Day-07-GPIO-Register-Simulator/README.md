@@ -1,4 +1,4 @@
-**# Day 7 - GPIO Register Simulator**
+**#GPIO Register Simulator**
 
 
 
