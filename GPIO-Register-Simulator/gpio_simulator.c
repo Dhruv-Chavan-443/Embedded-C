@@ -1,4 +1,3 @@
-```c
 #include <stdio.h>
 
 // Simulated GPIO register
@@ -170,4 +169,3 @@ int main()
     printf("ALARM: %d\n", gpio);
     printf("Current mode: %d\n", current_mode);
 }
-```
